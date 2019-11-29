@@ -1,0 +1,37 @@
+{
+    
+        "companyName" : "Wild Stuff Inc.",
+        "description" : "You are in the right place to buy crazy thing!!!!", 
+        "product" : [
+            {
+        "productName" : "The Ostrich Pillow",
+        "price" : "$20.0",
+        "description" : "It's a pillow you wear on your head whenever you want to take a nap. And if you use it to put your head down to rest on a table or desk, it has convenient pockets for your hands too! It looks pretty ridiculous but it's probably pretty comfortable!",
+            "image": "pillow.jpg"
+  },
+  {
+  "productName" : "1500 live Ladybugs",
+  "price" : "$3.50",
+  "description" : "Live Delivery Guaranteed!!Ladybugs are general predators that feed on a variety of slow-moving insects including Aphids, Moth eggs, Mites, Scales, Thrips,Leaf Hoppers Mealybugs, Chinch Bugs, Asparagus Beetle larvae, Whitefly and others. Ladybugs are good bugs great for kids, birthday parties, school projects!Nature's Good Guys mesh bag of Live adult ladybugs." ,
+      "image": "Ladybug.jpg"
+  },
+  {
+  "productName" : "Pet Wig",
+  "price" : "$9.99",
+  "description" : "pets deserve to feel every bit as stylish as their human counterparts.And fortunately this wig can help them achieve that goal.",
+      "image": "Petwig.jpg"
+  },
+  {
+  "productName" : "A pound of replica human fat",
+  "price" : "$23.73",
+  "description" : "If you've ever needed a means of convincing yourself not to go back for seconds,this rubbery pound of replica fat is sure to do the trick",
+      "image": "fat.jpg"
+  },
+  {
+  "productName" : "The WineRack Bra",
+  "price" : "$29.99",
+  "description" : "Drinks at bars and clubs can be downright expensive,but not for the owners of the WineRack,a sports bra that holds a full bottle of wine in it.",
+      "image": "wine.jpg"
+  }
+        ]
+}
